@@ -13,8 +13,8 @@ Se aplica Arquitectura Limpia y Patrón de Repositorio a la aplicación de monit
 ```
 npm install
 ```
-
-2. Ejecutar la aplicación. 
+2. Renombrar el archiv `.env.template` a `.env` y definir las variables de entorno.
+3. Ejecutar la aplicación. 
 ```
 npm run dev
 ```

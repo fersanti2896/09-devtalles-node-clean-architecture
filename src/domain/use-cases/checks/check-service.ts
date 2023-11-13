@@ -37,7 +37,5 @@ export class CheckService implements CheckServiceUseCase {
 
             return false;
         }
-
-        return true;
     }   
 }
